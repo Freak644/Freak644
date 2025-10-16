@@ -34,8 +34,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Freak644&show_icons=true&theme=radical" alt="Freak's GitHub stats" />
   </p>
   
-  <p align="center">The GitHub stats is not currently good </p>
-</p>
+ 
 -->
 ---
 ## 🎮 Python Mini Games
