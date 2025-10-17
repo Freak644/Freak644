@@ -17,7 +17,7 @@
 
 
 ## 🧠 My Focus Areas
-- web Development. /dive into AI, Machine Learning, Rust, and Assembly
+- web Development./📚 DSA /dive into AI, Machine Learning, Rust, and Assembly
 
 
 ## 📊 GitHub Stats & Trophies
