@@ -18,6 +18,7 @@
 
 ## 🧠 My Focus Areas
 - web Development./📚 DSA /dive into AI, Machine Learning, Rust, and Assembly
+- And i am learning Morse code just for fun🫣
 
 
 ## 📊 GitHub Stats & Trophies
