@@ -5,9 +5,9 @@
     <img src="https://komarev.com/ghpvc/?username=Freak644&label=Profile%20views&color=00FFFF&style=flat-square" alt="Freak644's profile views" />
   </a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="80%" />
+</p>
 ## 📌 About Me
 - 🔭 Learning Data Structures & Algorithms in Java as part of my growth journey
 - 🤖 Currently working on a Social media developer platform  leveraging Node.js (Express) and Python (FastAPI)
