@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🔭 Learning Data Structures & Algorithms in Java as part of my growth journey
@@ -59,8 +59,9 @@
 <p align="left"> <a href="mailto:hoodafreak@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Freak's Email"/></a></p>
 
 ## 💬 Quote
-> WORK HARD AND BE NICE;
-> Strength can be measured by estimation, Not courage;
+> WORK HARD AND BE NICE
+> 
+> Strength can be measured by estimation, Not courage
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
