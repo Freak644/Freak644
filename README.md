@@ -59,7 +59,8 @@
 <p align="left"> <a href="mailto:hoodafreak@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Freak's Email"/></a></p>
 
 ## 💬 Quote
-> Strength can be measured by estimation, Not courage
+> WORK HARD AND BE NICE;
+> Strength can be measured by estimation, Not courage;
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
