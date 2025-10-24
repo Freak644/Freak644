@@ -61,7 +61,9 @@
 
 ## 💬 Quote
 > जो बात का निः वो जाट का निः✊;
+> 
 > WORK HARD AND BE NICE;
+> 
 > Strength can be measured by estimation, Not courage
 
 <picture>
