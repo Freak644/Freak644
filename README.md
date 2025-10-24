@@ -60,8 +60,8 @@
 <p align="left"> <a href="mailto:hoodafreak@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Freak's Email"/></a></p>
 
 ## 💬 Quote
-> WORK HARD AND BE NICE
-> 
+> जो बात का निः वो जाट का निः✊;
+> WORK HARD AND BE NICE;
 > Strength can be measured by estimation, Not courage
 
 <picture>
