@@ -15,7 +15,7 @@
 - 🌱 Future plans: dive into AI, Machine Learning, Rust, and Assembly
 - 🧠 I’m passionate about turning caffeine into code
 - ⚡ Fun fact: I like bugs... when they’re fixed 🐞
-- 👾 And i belive... mistakes or losses can’t be undone.
+- 👾 And i believe... mistakes or losses can’t be undone.
 
 
 ## 🧠 My Focus Areas
@@ -62,7 +62,9 @@
 
 ## 💬 Quote
 > जो बात का निः वो जाट का निः✊;
+> 
 > WORK HARD AND BE NICE;
+> 
 > Strength can be measured by estimation, Not courage
 
 <picture>
