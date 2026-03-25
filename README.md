@@ -34,7 +34,7 @@
   <img src="https://trophy.ryglcloud.net/?username=Freak644&theme=cobalt&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="loser644's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Freak644&theme=merko&radius=10" alt="Freak644's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Freak644&theme=nightowl&radius=10" alt="Freak644's Activity Graph" />
 </p>
 
 
